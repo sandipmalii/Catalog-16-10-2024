@@ -54,7 +54,7 @@ The task is to find the constant term, i.e., `c`, of the polynomial with the giv
 n: Number of roots provided in the given JSON
 k: Minimum number of roots required to solve for the coefficients of the polynomial (k = m + 1, where m is the degree of the polynomial)
 
-**Root Format Example**
+**Root Format Example** 
 "2": {
     "base": "2",
     "value": "111"
